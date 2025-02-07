@@ -1,1 +1,2 @@
-# -La-evoluci-n-del-trabajo
+# -La-evolución-del-trabajo
+La automatización y la inteligencia artificial están redefiniendo el mundo del desarrollo. La ciberseguridad, el análisis de datos y el aprendizaje automático son más relevantes que nunca. Pero el éxito no solo depende de habilidades técnicas, sino también de la capacidad de colaborar, adaptarse y liderar equipos en entornos cambiantes. El futuro pertenece a quienes combinan conocimiento y flexibilidad.
